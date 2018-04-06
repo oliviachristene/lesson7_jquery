@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 6, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Olivia Hrbek)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(For this assignment, we were introduced to jQuery and was able to help create a recipe display app.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://oliviachristene.github.io/lesson7_jquery/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learned basic jQuery commands.)
+2. (Learned how to manipulate and change a web page through the Console.)
+3. (Learned the elements needed to create a recipe display app.)
 
